@@ -1,0 +1,24 @@
+:root {
+  --default-background: #222;
+  --text-color: #fff;
+}
+
+@font-face {
+  font-family: 'raleway';
+  src:
+    url('../fonts/Raleway-VariableFont_wght.ttf'),
+    url('../fonts/Raleway-Italic-VariableFont_wght.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Displays fallback text while loading the custom font */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'raleway', 'Times New Roman', Times, serif;
+}
