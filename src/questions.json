@@ -1,0 +1,95 @@
+{
+  "0": {
+    "question": "Which is not a programming language?",
+    "answers": [
+      { "text": "Python", "correct": false },
+      { "text": "Java", "correct": false },
+      { "text": "CSS", "correct": true },
+      { "text": "Javascript", "correct": false }
+    ]
+  },
+  "1": {
+    "question": "What does the acronym HTML mean?",
+    "answers": [
+      { "text": "Cascading Style Sheets", "correct": false },
+      { "text": "HyperText Markup Language", "correct": true },
+      { "text": "HypertText Preprocessor", "correct": false },
+      { "text": "Structured Query Language", "correct": false }
+    ]
+  },
+  "2": {
+    "question": "What are the four pillars of object-oriented programming?",
+    "answers": [
+      { "text": "Abstraction, encapsulation, inheritance, polymorphism", "correct": true },
+      { "text": "Objects, classes, attributes, methods", "correct": false },
+      { "text": "Variables, functions, constants, callbacks", "correct": false },
+      { "text": "Loops, conditions, instances, variables", "correct": false }
+    ]
+  },
+  "3": {
+    "question": "What are some programming paradigms?",
+    "answers": [
+      { "text": "Structured, agile methodologies, SCRUM, sequential", "correct": false },
+      {
+        "text": "Vibe coding, fast programming, easy programming, fast delivery",
+        "correct": false
+      },
+      { "text": "Planning, deployment, design, analysis", "correct": false },
+      { "text": "Object-oriented, functional, imperative, declarative", "correct": true }
+    ]
+  },
+  "4": {
+    "question": "Which programming language is not commonly used in the backend?",
+    "answers": [
+      { "text": "Python", "correct": false },
+      { "text": "PHP", "correct": false },
+      { "text": "Javascript", "correct": true },
+      { "text": "Java", "correct": false }
+    ]
+  },
+  "5": {
+    "question": "Which is a design pattern?",
+    "answers": [
+      { "text": "Model View Controller (MVC)", "correct": false },
+      { "text": "Container-Presenter pattern", "correct": true },
+      { "text": "Layered architecture", "correct": false },
+      { "text": "Microservices architecture", "correct": false }
+    ]
+  },
+  "6": {
+    "question": "Which of these databases is relational?",
+    "answers": [
+      { "text": "MongoDB", "correct": false },
+      { "text": "Redis", "correct": false },
+      { "text": "MySQL", "correct": true },
+      { "text": "Firebase", "correct": false }
+    ]
+  },
+  "7": {
+    "question": "What is an algorithm?",
+    "answers": [
+      { "text": "A programming language", "correct": false },
+      { "text": "A fast computer", "correct": false },
+      { "text": "A sequence of steps to solve a problem", "correct": true },
+      { "text": "A variable type", "correct": false }
+    ]
+  },
+  "8": {
+    "question": "What is a bug in programming?",
+    "answers": [
+      { "text": "A keyboard shortcut", "correct": false },
+      { "text": "A software library", "correct": false },
+      { "text": "A new feature of a program", "correct": false },
+      { "text": "A code error", "correct": true }
+    ]
+  },
+  "9": {
+    "question": "What is a loop in programming?",
+    "answers": [
+      { "text": "A system error", "correct": false },
+      { "text": "A structure that repeats instructions", "correct": true },
+      { "text": "A database", "correct": false },
+      { "text": "A markup language", "correct": false }
+    ]
+  }
+}

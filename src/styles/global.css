@@ -1,6 +1,7 @@
 :root {
   --default-background: #222;
-  --text-color: #fff;
+  --default-text-color: #222;
+  --primary-color: #e8dcca;
 }
 
 @font-face {
@@ -21,4 +22,5 @@
 
 body {
   font-family: 'raleway', 'Times New Roman', Times, serif;
+  background-color: var(--default-background);
 }
